@@ -1,0 +1,3 @@
+apply:
+  - run_script:
+      script: setup/install-tmux-conf.sh
